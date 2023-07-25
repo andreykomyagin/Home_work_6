@@ -40,7 +40,7 @@ void Method41()
     Console.WriteLine($"{count} - количество положительных чисел!");
 }
 
-void Method43()
+void Method43() // для целых чисел коэффициентов
 {
     Console.WriteLine("Задача 43!");
     int b1 = Input("Коэффициент b для первой прямой: ");
